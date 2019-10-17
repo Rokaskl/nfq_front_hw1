@@ -1,4 +1,4 @@
-console.log("It got nothing to do with task, just some fun stuff");
+console.log("Nothing to do with the Home Work task, just some fun stuff");
 var button = document.querySelector(".Button");
 var pos = [
   "200px",
